@@ -1,0 +1,33 @@
+.btn {
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(36, 194, 21);
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+}
+
+.red {
+    border: 2px solid red;
+    border-radius: 8px;
+    width: 95%;
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: cadetblue;
+}
+
+.green {
+    width: 95%;
+    margin: 10px auto;
+    border: 2px solid green;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: chocolate;
+}

@@ -1,0 +1,16 @@
+.country{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    
+}
+.btn{
+    width: 100px;
+    height: 25px;
+    border: none;
+    border-radius: 8px;
+    background-color: cadetblue;
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+}
